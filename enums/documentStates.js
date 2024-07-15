@@ -1,0 +1,4 @@
+export const DOCUMENT_STATE={
+    DRAFT:'DRAFT',
+    PUBLISHED:'PUBLISHED'
+}
